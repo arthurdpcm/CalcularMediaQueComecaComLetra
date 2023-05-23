@@ -1,0 +1,10 @@
+# Arquivos e diretórios específicos
+.env
+
+# Diretórios específicos
+node_modules/
+
+# Arquivos gerados
+npm-debug.log
+yarn-debug.log
+yarn-error.log
